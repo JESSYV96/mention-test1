@@ -1,3 +1,4 @@
+Note: Work in JS
 
 This code doesn't work as fast as we would like. Can you make it 3 times faster,
 while having exactly the same output ? (in the same order).
